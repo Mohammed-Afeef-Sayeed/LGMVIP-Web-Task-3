@@ -1,2 +1,1 @@
-# LGMVIP-Web-Task-3
-Student Enrolment form
+# Student Enrolment form
